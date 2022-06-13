@@ -1,0 +1,32 @@
+/************************* ÜST KISIM ************************/
+nav {
+    text-align: center;
+}
+
+.title-font {
+    font-size: 44px;
+    color: #990099	;
+}
+
+.nav-dec {
+    color: red;
+}
+
+.title2-font {
+    font-size: 24px;
+    color: #66FF33;
+}
+
+/************************* İÇERİK ************************/
+
+.article-one {
+    text-align: center;
+}
+
+.orange-text {
+    color: #FF6600;
+}
+
+.ul-point {
+    list-style-position: inside
+}
